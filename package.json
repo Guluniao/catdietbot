@@ -1,7 +1,6 @@
 {
   "name": "catdietbot",
   "version": "1.0.0",
-  "description": "Cat Diet RPG Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
