@@ -20,7 +20,7 @@ function getUser(id) {
 }
 
 // ====== Bot Ready ======
-client.once('ready', () => {
+client.once('ready', () =>：｛
   console.log(`🐱 ${client.user.tag} 已上線`);
 });
 
